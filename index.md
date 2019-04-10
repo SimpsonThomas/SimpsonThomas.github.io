@@ -7,3 +7,8 @@ I have worked with frameworks like React and vue.js to build imple and user frie
 I have also built up the back-ends for serveral of the apps I've worked on, using both mongo.dB and mySQL as database providers and writing APIs to allow myself and others to access and manipulate this critical data in our respective apps.
 
 My work has helped people across IBM, from apps that take the user away from the trials and tibulations of Excel, to those were taken to MWC (in 2018) using AI to power fashion demos and those launched across IBM to help contractors starting a new accounts.
+
+*Check me out on:*
+- (LinkedIn)[https://www.linkedin.com/in/thomas-simpson-33a3b3167/]
+- (Twitter)[https://twitter.com/ThomasSimpson_]
+- And (Github)[https://github.com/SimpsonThomas]
