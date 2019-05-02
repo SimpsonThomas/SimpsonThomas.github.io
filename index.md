@@ -9,6 +9,6 @@ I have also built up the back-ends for serveral of the apps I've worked on, usin
 My work has helped people across IBM, from apps that take the user away from the trials and tibulations of Excel, to those were taken to MWC (in 2018) using AI to power fashion demos and those launched across IBM to help contractors starting a new accounts.
 
 *Check me out on:*
-- [LinkedIn](https://www.linkedin.com/in/thomas-simpson-33a3b3167/)
+- [LinkedIn](https://www.linkedin.com/in/simpson-thomas)
 - [Twitter](https://twitter.com/ThomasSimpson_)
 - And [Github](https://github.com/SimpsonThomas)
