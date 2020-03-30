@@ -1,6 +1,6 @@
 ## Personal pitch
 
-I am an experience web developer, with experience spanning the full range from front-end to back-end.
+I am an experience web developer, with experience spanning the full range from front-end to back-end. Currently studying Natural Sciences (Maths, Physics and Chemistry) at Durham
 
 I have worked with frameworks like React and vue.js to build simple and user friendly UIs that still have enough power to give them freedom. And I have experience with node.js running server-side, and knowledge of running dev-ops on a complicated production web app, ensuring that users are always able to get their job done with automated deployments including extensive testing (with Cypress).
 
