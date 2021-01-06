@@ -1,6 +1,8 @@
 ## Personal pitch
 
-I am an experience web developer, with experience spanning the full range from front-end to back-end. Currently studying Natural Sciences (Maths, Physics and Chemistry) at Durham
+I am an experience web developer, with experience spanning the full range from front-end to back-end. Currently studying Natural Sciences at Durham, now in my second year focusing on Maths and Physics.
+
+Currently working as an Oracy Mentor with the [English Speaking Union](https://www.esu.org/), bank staff at [BHRUT](https://twitter.com/BHRUT_NHS) in Queens Hospital Romford, Puzzle Editor with [Palatinate](https://www.palatinate.org.uk/) and Officer Cadet at the NUOTC, part of the British Army Reserves. 
 
 I have worked with frameworks like React and vue.js to build simple and user friendly UIs that still have enough power to give them freedom. And I have experience with node.js running server-side, and knowledge of running dev-ops on a complicated production web app, ensuring that users are always able to get their job done with automated deployments including extensive testing (with Cypress).
 
